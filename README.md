@@ -16,6 +16,4 @@ PROFILE: Hrinkar Bothra<br>  📍 Location: Udaipur, India 🇮🇳    <br>  �
 ![](https://github-profile-trophy.vercel.app/?username=hrinkar01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=hrinkar01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
