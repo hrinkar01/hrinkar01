@@ -10,10 +10,8 @@ PROFILE: Hrinkar Bothra<br>  📍 Location: Udaipur, India 🇮🇳    <br>  �
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=hrinkar01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=hrinkar01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hrinkar01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hrinkar01&style=for-the-badge&color=blueviolet&labelColor=black&label=VISITORS" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/hrinkar01?style=for-the-badge&color=blue&labelColor=black&label=FOLLOWERS" alt="Followers"/>
