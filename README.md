@@ -14,6 +14,12 @@ PROFILE: Hrinkar Bothra<br>  📍 Location: Udaipur, India 🇮🇳    <br>  �
 ![](https://streak-stats.demolab.com/?user=hrinkar01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=hrinkar01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hrinkar01&style=for-the-badge&color=blueviolet&labelColor=black&label=VISITORS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/hrinkar01?style=for-the-badge&color=blue&labelColor=black&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/hrinkar01?style=for-the-badge&color=yellow&labelColor=black&label=TOTAL%20STARS" alt="Stars"/>
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hrinkar01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
