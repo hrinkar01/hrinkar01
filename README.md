@@ -6,7 +6,6 @@ PROFILE: Hrinkar Bothra<br>  📍  Location: Udaipur, India 🇮🇳    <br>  �
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrinkar-bothra-360093308/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hrinkar16@gmail.com) 
 
 # 💻 Tech Stack:
-
 <div align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
@@ -29,7 +28,6 @@ PROFILE: Hrinkar Bothra<br>  📍  Location: Udaipur, India 🇮🇳    <br>  �
 
 
 # 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=hrinkar01&theme=dark&hide_border=false)<br/>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=hrinkar01&theme=dark&hide_border=false"/>
 </div>div>
