@@ -30,6 +30,9 @@ PROFILE: Hrinkar Bothra<br>  📍  Location: Udaipur, India 🇮🇳    <br>  �
 
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=hrinkar01&theme=dark&hide_border=false)<br/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=hrinkar01&theme=dark&hide_border=false"/>
+</div>div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hrinkar01&style=for-the-badge&color=blueviolet&labelColor=black&label=VISITORS" alt="Profile Views"/>
