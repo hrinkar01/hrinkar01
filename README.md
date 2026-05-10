@@ -1,5 +1,5 @@
 #  About Me:
-PROFILE: Hrinkar Bothra<br>  📍  Location: Udaipur, India 🇮🇳    <br>  🎓 Education: B.Tech in CSE<br> 💼 Role: ML and IOT <br> 🏆 Achievements: SIH'25 [Hardware Edition], GITS'24 Ideathon <br>
+PROFILE: Hrinkar Bothra<br>  📍   Location: Udaipur, India 🇮🇳    <br>  🎓 Education: B.Tech in CSE<br> 💼 Role: ML and IOT <br> 🏆 Achievements: SIH'25 [Hardware Edition], GITS'24 Ideathon <br>
 
 
 ## 🌐 Socials:
